@@ -1,4 +1,4 @@
-# Drag-and-Drop Website Builder
+# WEB_CRAFTY
 
 This project is a simple drag-and-drop website builder that allows users to create and customize websites by adding text and images.
 
