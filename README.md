@@ -18,7 +18,7 @@ Make sure you have the following software installed on your machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/drag-and-drop-website-builder.git
+   git clone https://github.com/harshpa324/webcraft
 2. Navigate to the project directory:
    cd drag-and-drop-website-builder
 3. Install the dependencies:
@@ -26,7 +26,7 @@ Make sure you have the following software installed on your machine:
 ### Running the Application
 #### Start the development server:
 
-npm start
+npm run dev
 Open your browser and visit http://localhost:3000 to access the application.   
 
 ### Future Scope
